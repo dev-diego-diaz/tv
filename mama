@@ -49,6 +49,8 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/9865
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16175
 #EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27155
+#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13 1080
+http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/513
 #EXTINF:-1 tvg-id="" tvg-name="CH: TVN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27156
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴴᴰ⁾" tvg-logo="https://www.ecured.cu/images/5/5a/Sdrfgd.png" group-title="CHILE",CH: CHILEVISION ⁽ᴴᴰ⁾
