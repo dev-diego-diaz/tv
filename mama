@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/271.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/276.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio" tvg-logo="" group-title="24/7",24/7 Mi Bella Genio
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/312.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="" group-title="24/7",24/7 El chavo del 8
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/291.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe del Rap" tvg-logo="" group-title="24/7",24/7 El Príncipe del Rap
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/294.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="" group-title="24/7",24/7 Los Picapiedra
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/8985.ts
+#EXTINF:-1 tvg-id="" tvg-name="Az Clic Full HD" tvg-logo="" group-title="Entretenimiento",Az Clic Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Full HD" tvg-logo="" group-title="Entretenimiento",Azteca 7 Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno Full HD" tvg-logo="" group-title="Entretenimiento",Azteca Uno Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/261.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="" group-title="Entretenimiento",Azteca Uno
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/5850.ts
