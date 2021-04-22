@@ -47,18 +47,24 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3822
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/9865
 #EXTINF:-1 tvg-id="13c.cl" tvg-name="CH: 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal13Chile-13C.png" group-title="CHILE",CH: 13C
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16175
+#EXTINF:-1 tvg-id="CL 13C" tvg-name="CL: 13C Full HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="CHILE",CL: 13C Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/46.ts
 #EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27155
-#EXTINF:-1 tvg-id="CL 13C" tvg-name="CL: 13C Full HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="Chile",CL: 13C Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/46.ts
+#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="CHILE",CL: Canal 13 Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3.ts
 #EXTINF:-1 tvg-id="" tvg-name="CH: TVN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27156
 #EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴴᴰ⁾" tvg-logo="https://www.ecured.cu/images/5/5a/Sdrfgd.png" group-title="CHILE",CH: CHILEVISION ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54997
+#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="CHILE",CL: CHV Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/5.ts
 #EXTINF:-1 tvg-id="red.cl" tvg-name="CH: LA RED" tvg-logo="https://lh3.googleusercontent.com/proxy/5ecUUSc-YoOROa8ArmrQ_S3TxCAvJCjQAcMinqKbWugb0l7WD5RVMeB_iGajggy8Yez1K9dwNDQlF8cixu0J_Y1kAvDqcykdK_pA3zQUqcKDYS-2yB0XQE49inmYsHE" group-title="CHILE",CH: LA RED
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/518
 #EXTINF:-1 tvg-id="mega.cl" tvg-name="CH: MEGA 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 720 ⁽ᴹ⁾
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16742
+#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA 1080 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 1080 ⁽ᵃ⁾
+http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/17284
 #EXTINF:-1 tvg-id="" tvg-name="CH: MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",CH: MEGA PLUS
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15864
 #EXTINF:-1 tvg-id="" tvg-name="CH: TV +" tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="CHILE",CH: TV +
