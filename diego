@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="CDF SD [G] [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD
+#EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="CDF SD [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD 14
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6822.ts
 #EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="TNT Sports HD (CDF HD) [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/17.ts
@@ -21,6 +21,10 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/31.ts
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3474.ts
 #EXTINF:-1 tvg-id="CL ESPN [G]" tvg-name="ESPN Full HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN Full HD
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3473.ts
+#EXTINF:-1 tvg-id="CL ESPNPLUS [G]" tvg-name="ESPN Extra HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3483.ts
+#EXTINF:-1 tvg-id="CL ESPNPLUS [G]" tvg-name="ESPN Extra Full HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra Full HD
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3482.ts
 
 #EXTINF:-1 tvg-id="CL ESPNPLUS [G]" tvg-name="CL: ESPN Plus HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",CL: ESPN Plus HD
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/7473.ts
@@ -38,10 +42,7 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3480.ts
 #EXTINF:-1 tvg-id="CL ESPN3 [G]" tvg-name="ESPN 3 Full HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 Full HD
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3479.ts
 
-#EXTINF:-1 tvg-id="CL ESPNPLUS [G]" tvg-name="ESPN Extra HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3483.ts
-#EXTINF:-1 tvg-id="CL ESPNPLUS [G]" tvg-name="ESPN Extra Full HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3482.ts
+
 
 #EXTINF:-1 tvg-id="CL FOX SPORTS CHILE [G]" tvg-name="CL: Fox Sports [G]" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9672.ts
