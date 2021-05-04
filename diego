@@ -1,19 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="CDF SD" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD (G) (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6822.ts
-#EXTINF:-1 tvg-id="CL CDF HD (G1)" tvg-name="TNT Sports HD (CDF HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD) (G)
+#EXTINF:-1 tvg-id="CL CDF HD (G1)" tvg-name="TNT Sports HD (CDF HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/17.ts
-#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD) * (G)
+#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD * (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6817.ts
-#EXTINF:-1 tvg-id="CL CDF PREMIUM" tvg-name="TNT Sports 2 (CDF Premium)" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports 2 (CDF Premium) (G)
+#EXTINF:-1 tvg-id="CL CDF PREMIUM" tvg-name="TNT Sports 2 (CDF Premium)" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports Premium) (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6818.ts
-#EXTINF:-1 tvg-id="CL CDF BASICO" tvg-name="TNT Sports 3 (CDF Básico)" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sxports 3 (CDF Básico) (G)
+#EXTINF:-1 tvg-id="CL CDF BASICO" tvg-name="TNT Sports 3 (CDF Básico)" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sports Básico (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6816.ts
-#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="Deportes",TNT Sports HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6858.ts
-#EXTINF:-1 tvg-id="AR TNT SPORTS" tvg-name="TNT Sports HD *" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="Deportes",TNT Sports HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9486.ts
 
 #EXTINF:-1 tvg-id="CL ESPN" tvg-name="CL: ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",CL: ESPN HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/31.ts
@@ -21,20 +15,10 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/31.ts
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3474.ts
 #EXTINF:-1 tvg-id="CL ESPN" tvg-name="ESPN Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3473.ts
-#EXTINF:-1 tvg-id="CL ESPNPLUS" tvg-name="ESPN Extra HD" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3483.ts
-#EXTINF:-1 tvg-id="CL ESPNPLUS" tvg-name="ESPN Extra Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",ESPN Extra Full HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3482.ts
-
-#EXTINF:-1 tvg-id="CL ESPNPLUS" tvg-name="CL: ESPN Plus HD" tvg-logo="http://logos.iptv.wtf/deportes/espnmas.png" group-title="Deportes",CL: ESPN Plus HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/7473.ts
-#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="CL: ESPN 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",CL: ESPN 2 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/32.ts
 #EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3477.ts
 #EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3476.ts
-
 #EXTINF:-1 tvg-id="CL ESPN3" tvg-name="CL: ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",CL: ESPN 3 HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/33.ts
 #EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 HD (G)
@@ -42,22 +26,17 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3480.ts
 #EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3479.ts
 
-
-
 #EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9672.ts
 #EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/20.ts
 #EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3486.ts
-#EXTINF:-1 tvg-id="AR FOX SPORTS PREMIUM" tvg-name="Fox Sports Premium HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsportspremium.png" group-title="Deportes",Fox Sports Premium HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9678.ts
+
 #EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/19.ts
-#EXTINF:-1 tvg-id="MX FOX SPORTS" tvg-name="Fox Sports Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",Fox Sports Full HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3331.ts
-#EXTINF:-1 tvg-id="AR FOX SPORTS PREMIUM" tvg-name="Fox Sports Premium Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsportspremium.png" group-title="Deportes",Fox Sports Premium Full HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9679.ts
+#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports Full HD ** (G)
+http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3485.ts
 
 #EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png" group-title="Deportes",CL: Fox Sports 1 (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9673.ts
@@ -70,35 +49,15 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/21.ts
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9674.ts
 #EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/24.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 HD (G)
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 HD * (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3489.ts
 #EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/23.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 Full HD (G)
+#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 Full HD * (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3488.ts
-#EXTINF:-1 tvg-id="MX FOX SPORTS 2" tvg-name="Fox Sports 2 Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 Full HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3332.ts
 
-#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3.png" group-title="Deportes",CL: Fox Sports 3 (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9675.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",CL: Fox Sports 3 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/26.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 3" tvg-name="CL: Fox Sports 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",CL: Fox Sports 3 Full HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/25.ts
-#EXTINF:-1 tvg-id="CO FOX SPORTS 2" tvg-name="Fox Sports 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3492.ts
-#EXTINF:-1 tvg-id="CO FOX SPORTS 3" tvg-name="Fox Sports 3 Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 Full HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3491.ts
-#EXTINF:-1 tvg-id="MX FOX SPORTS 3" tvg-name="Fox Sports 3 Full HD *" tvg-logo="http://logos.iptv.wtf/deportes/foxsports3hd.png" group-title="Deportes",Fox Sports 3 Full HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3329.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports Full HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3485.ts
-
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/40.ts
 #EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/39.ts
-
 #EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/43.ts
 #EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 HD (G)
@@ -111,8 +70,6 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9694.ts
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Argentina Full HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Argentina Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9693.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Eventos HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Eventos HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9724.ts
 #EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports Full HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/38.ts
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports Eventos 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Eventos 2 HD (G)
@@ -127,39 +84,3 @@ http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/44.ts
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6859.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVC Deportes Full HD" tvg-logo="http://logos.iptv.wtf/deportes/tvcdeportes.png" group-title="Deportes",TVC Deportes Full HD (G)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3353.ts
-
-#EXTINF:-1 tvg-id="CL CDO BASICO" tvg-name="CDO Básico" tvg-logo="http://logos.iptv.wtf/deportes/cdo.png" group-title="Deportes",CDO Básico (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/34.ts
-#EXTINF:-1 tvg-id="CL CDO BASICO" tvg-name="CDO Básico HD" tvg-logo="http://logos.iptv.wtf/deportes/cdo.png" group-title="Deportes",CDO Básico HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/35.ts
-#EXTINF:-1 tvg-id="CL CDO PREMIUM" tvg-name="CDO Play HD" tvg-logo="http://logos.iptv.wtf/deportes/cdop.png" group-title="Deportes",CDO Play HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/36.ts
-#EXTINF:-1 tvg-id="CL CDO PREMIUM" tvg-name="CDO Premium HD" tvg-logo="http://logos.iptv.wtf/deportes/cdop.png" group-title="Deportes",CDO Premium HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/37.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS La Liga HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsportslaliga.png" group-title="Deportes",BEIN SPORTS La Liga HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/10776.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 4" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsports4.png" group-title="Deportes",beIN SPORTS 4 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9740.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 4" tvg-name="beIN SPORTS 4 HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsports4.png" group-title="Deportes",beIN SPORTS 4 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1651.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 5" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsports5.png" group-title="Deportes",beIN SPORTS 5 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9741.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 5" tvg-name="beIN SPORTS 5 HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsports5.png" group-title="Deportes",beIN SPORTS 5 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1652.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 6" tvg-name="beIN SPORTS 6 HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsports6.png" group-title="Deportes",beIN SPORTS 6 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9742.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 6" tvg-name="beIN SPORTS 6 HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsports6.png" group-title="Deportes",beIN SPORTS 6 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1653.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 7" tvg-name="beIN SPORTS 7 HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsports7.png" group-title="Deportes",beIN SPORTS 7 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9743.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 7" tvg-name="beIN SPORTS 7 HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsports7.png" group-title="Deportes",beIN SPORTS 7 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1654.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 8" tvg-name="beIN SPORTS 8 HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsports8.png" group-title="Deportes",beIN SPORTS 8 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9744.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS 8" tvg-name="beIN SPORTS 8 HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsports8.png" group-title="Deportes",beIN SPORTS 8 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1655.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS N" tvg-name="beIN SPORTS Ñ HD" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png" group-title="Deportes",beIN SPORTS Ñ HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/1647.ts
-#EXTINF:-1 tvg-id="USA BEIN SPORTS N" tvg-name="Bein Sports Ñ HD *" tvg-logo="http://logos.iptv.wtf/deportes/beinsportsn.png" group-title="Deportes",Bein Sports Ñ HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6814.ts
