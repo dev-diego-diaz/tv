@@ -1,14 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="CDF SD [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD 14
+#EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="CDF SD [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",CDF SD
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6822.ts
-#EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="TNT Sports HD (CDF HD) [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD)
+#EXTINF:-1 tvg-id="CL CDF HD (G1)" tvg-name="TNT Sports HD (CDF HD G1) (G2)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD G3) (G4)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/17.ts
 #EXTINF:-1 tvg-id="CL CDF HD [G]" tvg-name="TNT Sports HD (CDF HD) * [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (CDF HD) *
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6817.ts
 #EXTINF:-1 tvg-id="CL CDF PREMIUM [G]" tvg-name="TNT Sports 2 (CDF Premium) [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports 2 (CDF Premium)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6818.ts
-#EXTINF:-1 tvg-id="CL CDF BASICO [G]" tvg-name="TNT Sports 3 (CDF Básico) [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sports 3 (CDF Básico)
+#EXTINF:-1 tvg-id="CL CDF BASICO [G]" tvg-name="TNT Sports 3 (CDF Básico) [G]" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sxports 3 (CDF Básico)
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6816.ts
 #EXTINF:-1 tvg-id="AR TNT SPORTS [G]" tvg-name="TNT Sports HD [G]" tvg-logo="http://logos.iptv.wtf/deportes/tntsports.png" group-title="Deportes",TNT Sports HD
 http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6858.ts
