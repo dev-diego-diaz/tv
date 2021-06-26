@@ -167,14 +167,18 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/64708
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
 
-#EXTINF:-1,Chile Horas HD (Chile) 
+#EXTINF:-1,Chile: Horas HD (Chile) 
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
-#EXTINF:-1,Chile Horas Play HD (CL)
+
+#EXTINF:-1,Chile: Horas Play HD (CL)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172
+
 #EXTINF:-1,Chile: TVN SD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294
+
 #EXTINF:-1,Chile: TVN HD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295
+
 #EXTINF:-1,Chile: TVN FHD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296
 #EXTINF:-1,Chile: Mega SD
@@ -237,7 +241,7 @@ http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889
 
 
 
-#EXTINF:-1,24/7 VIP Cinema Accion Classics FHD
+#EXTINF:-1,24/7: VIP Cinema Accion Classics FHD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50572
 #EXTINF:-1,24/7 VIP Cinema Ciencia Ficcion FHD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50573
