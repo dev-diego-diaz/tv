@@ -169,30 +169,21 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
 
 
-
-#EXTINF:-1,CL: Horas HD (Chile) 
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="24 Horas HD" group-title="Chile",24 hrs HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
 
-#EXTINF:-1,CHILE2: Horas HD (Chile) 
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
-
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="Horas HD - Diego" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Chile",24 hrs Diego
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
-
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="Horas HD - Diego" group-title="Chile",24 hrs Diego
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
-
-#EXTINF:-1,CHILE: Horas Play HD (CL)
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="24 Horas Play HD" group-title="Chile",24 Horas Play HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172
 
-#EXTINF:-1,Chile: TVN SD
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN SD" group-title="Chile",TVN SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294
 
-#EXTINF:-1,Chile: TVN HD
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN HD" group-title="Chile",TVN HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295
 
-#EXTINF:-1,Chile: TVN FHD
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN FHD" group-title="Chile",TVN FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296
+
 #EXTINF:-1,Chile: Mega SD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35297
 #EXTINF:-1,Chile: Mega HD
