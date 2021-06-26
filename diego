@@ -205,43 +205,46 @@ http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35302
 #EXTINF:-1 tvg-name="Canal 13 SD" group-title="Chile",Canal 13 SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35303
 
-#EXTINF:-1,Chile: Canal 13 HD
+#EXTINF:-1 tvg-name="Canal 13 HD" group-title="Chile",Canal 13 HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35304
-#EXTINF:-1,Chile: Canal 13 FHD
+
+#EXTINF:-1 tvg-name="Canal 13 FHD" group-title="Chile",Canal 13 FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35305
-#EXTINF:-1,Chile: TV+ SD
+
+#EXTINF:-1 tvg-name="TV+ SD" group-title="Chile",TV+ SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35306
-#EXTINF:-1,Chile: TV+ HD
+
+#EXTINF:-1 tvg-name="TV+ HD" group-title="Chile",TV+ HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35308
-#EXTINF:-1,Chile: La Red SD
+
+#EXTINF:-1 tvg-name="La Red SD" group-title="Chile",La Red SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35311
-#EXTINF:-1,Chile: La Red HD
+
+#EXTINF:-1 tvg-name="La Red HD" group-title="Chile",La Red HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35310
-#EXTINF:-1,Chile: La Red FHD
+
+#EXTINF:-1 tvg-name="La Red HD" group-title="Chile",La Red HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35309
-#EXTINF:-1,Chile: La Red FHD*
+
+#EXTINF:-1 tvg-name="La Red FHD*" group-title="Chile",La Red FHD* (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/57993
-#EXTINF:-1,Chile: 13C SD
+
+#EXTINF:-1 tvg-name="13C SD" group-title="Chile",13C SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35312
-#EXTINF:-1,Chile: ADN TV
+
+#EXTINF:-1 tvg-name="ADN TV" group-title="Chile",ADN TV (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35316
-#EXTINF:-1,Chile: Bio-Bio Chile TV HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35317
-#EXTINF:-1,Chile: Canal 9 Bío Bío HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/172729
-#EXTINF:-1,Chile: Carolina TV HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35318
-#EXTINF:-1,Chile: Rec TV SD
+
+#EXTINF:-1 tvg-name="Rec TV SD" group-title="Chile",Rec TV SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35320
-#EXTINF:-1,Chile: TV Chile FHD
+
+#EXTINF:-1 tvg-name="TV Chile FHD" group-title="Chile",TV Chile FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35321
-#EXTINF:-1,Chile: UCV 3 HD
+
+#EXTINF:-1 tvg-name="UCV 3 HD" group-title="Chile",UCV 3 HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35322
-#EXTINF:-1,Chile: VC Online HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35323
-#EXTINF:-1,Chile: TV Educa Chile FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/47913
-#EXTINF:-1,Chile: TV+ FHD
+
+#EXTINF:-1 tvg-name="TV+ FHD" group-title="Chile",TV+ FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889
 
 
@@ -250,9 +253,9 @@ http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889
 
 
 
-
-#EXTINF:-1,24/7: VIP Cinema Accion Classics FHD
+#EXTINF:-1 tvg-name="VIP Cinema Accion Classics FHD" group-title="24/7",VIP Cinema Accion Classics FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50572
+
 #EXTINF:-1,24/7 VIP Cinema Ciencia Ficcion FHD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50573
 #EXTINF:-1,24/7 VIP Cinema Horror Classics HD
