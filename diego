@@ -167,10 +167,19 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/64708
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
 
-#EXTINF:-1,Chile: Horas HD (Chile) 
+
+
+
+#EXTINF:-1,CL: Horas HD (Chile) 
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
 
-#EXTINF:-1,Chile: Horas Play HD (CL)
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="Horas HD - Diego" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Chile",24 hrs Diego
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
+
+#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="Horas HD - Diego" group-title="Chile",24 hrs Diego
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
+
+#EXTINF:-1,CHILE: Horas Play HD (CL)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172
 
 #EXTINF:-1,Chile: TVN SD
