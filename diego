@@ -1,101 +1,8 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="CL CDF HD (G1)" tvg-name="TNT Sports HD (CDF HD)" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/17.ts
-#EXTINF:-1 tvg-id="CL CDF HD" tvg-name="TNT Sports HD (CDF HD) *" tvg-logo="http://logos.iptv.wtf/deportes/cdfhd.png" group-title="Deportes",TNT Sports HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6817.ts
-#EXTINF:-1 tvg-id="CL CDF PREMIUM" tvg-name="TNT Sports 2 (CDF Premium)" tvg-logo="http://logos.iptv.wtf/deportes/cdfp.png" group-title="Deportes",TNT Sports Premium) (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6818.ts
-#EXTINF:-1 tvg-id="CL CDF BASICO" tvg-name="TNT Sports 3 (CDF Básico)" tvg-logo="http://logos.iptv.wtf/deportes/cdfb.png" group-title="Deportes",TNT Sports Básico (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6816.ts
-
-#EXTINF:-1 tvg-id="CL ESPN" tvg-name="CL: ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",CL: ESPN HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/31.ts
-#EXTINF:-1 tvg-id="CL ESPN" tvg-name="ESPN HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3474.ts
-#EXTINF:-1 tvg-id="CL ESPN" tvg-name="ESPN Full HD" tvg-logo="http://logos.iptv.wtf/deportes/espnhd.png" group-title="Deportes",ESPN FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3473.ts
-#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3477.ts
-#EXTINF:-1 tvg-id="CL ESPN2" tvg-name="ESPN 2 FHD" tvg-logo="http://logos.iptv.wtf/deportes/espn2hd.png" group-title="Deportes",ESPN 2 FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3476.ts
-#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="CL: ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",CL: ESPN 3 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/33.ts
-#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 HD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3480.ts
-#EXTINF:-1 tvg-id="CL ESPN3" tvg-name="ESPN 3 FHD" tvg-logo="http://logos.iptv.wtf/deportes/espn3hd.png" group-title="Deportes",ESPN 3 FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3479.ts
-
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9672.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/20.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3486.ts
-
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="CL: Fox Sports FHD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",CL: Fox Sports FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/19.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS CHILE" tvg-name="Fox Sports FHD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports.png" group-title="Deportes",Fox Sports FHD ** (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3485.ts
-
-#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1.png" group-title="Deportes",CL: Fox Sports 1 (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9673.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",CL: Fox Sports 1 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/22.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 1" tvg-name="CL: Fox Sports 1 FHD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports1hd.png" group-title="Deportes",CL: Fox Sports 1 FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/21.ts
-
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2.png" group-title="Deportes",CL: Fox Sports 2 (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9674.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/24.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 HD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3489.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="CL: Fox Sports 2 FHD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",CL: Fox Sports 2 FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/23.ts
-#EXTINF:-1 tvg-id="CL FOX SPORTS 2" tvg-name="Fox Sports 2 FHD" tvg-logo="http://logos.iptv.wtf/deportes/foxsports2hd.png" group-title="Deportes",Fox Sports 2 FHD * (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3488.ts
-
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/39.ts
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/43.ts
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/42.ts
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS 2" tvg-name="DirecTV Sports 2 FHD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports2.png" group-title="Deportes",DirecTV Sports 2 FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/41.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Argentina HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Argentina HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9694.ts
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Argentina FHD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Argentina FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9693.ts
-
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS" tvg-name="DirecTV Sports FHD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",DirecTV Sports FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Eventos 2 HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsports.png" group-title="Deportes",Directv Sports Eventos 2 HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/9725.ts
-
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS PLUS" tvg-name="DirecTV Sports Plus" tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png" group-title="Deportes",DirecTV Sports Plus (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/45.ts
-#EXTINF:-1 tvg-id="CL DIRECTV SPORTS PLUS" tvg-name="DirecTV Sports Plus HD" tvg-logo="http://logos.iptv.wtf/deportes/directvsportsplus.png" group-title="Deportes",DirecTV Sports Plus HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/44.ts
-
-#EXTINF:-1 tvg-id="AR TYC SPORTS" tvg-name="TyC Sports Argentina HD" tvg-logo="http://logos.iptv.wtf/deportes/tycsports.png" group-title="Deportes",TyC Sports Argentina HD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/6859.ts
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes FHD" tvg-logo="http://logos.iptv.wtf/deportes/tvcdeportes.png" group-title="Deportes",TVC Deportes FHD (G)
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3353.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="CDO BÁSICO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/cdo.png" group-title="Deportes",CDO BÁSICO (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/57714
 #EXTINF:-1 tvg-id="" tvg-name="CDO PREMIUM ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="Deportes",CDO PREMIUM (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15601
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="DIRECTV SPORTS + (ʜᴅ)" tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="Deportes",DIRECTV SPORTS + (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41663
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS + (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes",DIRECTV SPORTS + (ꜰʜᴅ) (M)
@@ -124,17 +31,12 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/61984
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/42472
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS CHILE (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DIRECTV SPORTS PLUS CHILE (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/61983
-
-
-
-
 #EXTINF:-1 tvg-id="espn.mx" tvg-name="ESPN 1 CHILE (ʜᴅ)" tvg-logo="https://jmsearch.com/wp-content/uploads/2016/03/ESPN.png" group-title="Deportes",ESPN 1 CHILE (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54125
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR (ʜᴅ)" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red-850x316.png" group-title="Deportes",ESPN 1 SUR (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/610
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 1 SUR (ꜰʜᴅ)" tvg-logo="https://www.gador.com.ar/wp-content/uploads/2017/04/espn-logo-red.png" group-title="Deportes",ESPN 1 SUR (ꜰʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58049
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARGENTINA (ꜰʜᴅ)" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f6fc6b0d8b876da9ab2ed9b72e3f7e06.png" group-title="Deportes",ESPN 2 ARGENTINA (ꜰʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58092
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE (ʜᴅ)" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2 CHILE (ʜᴅ) (M)
@@ -155,8 +57,6 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54399
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14869
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR (ʜᴅ)" tvg-logo="https://logodix.com/logo/313657.png" group-title="Deportes",ESPN 2 SUR (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/609
-
-
 #EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3 (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55414
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 (ꜰʜᴅ) (M)
@@ -167,7 +67,6 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/62489
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/608
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SUR (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" group-title="Deportes",ESPN 3 SUR (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/26135
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN CHILE (ʜᴅ)" tvg-logo="https://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="Deportes",ESPN CHILE (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/62486
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="ESPN Deportes (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="Deportes",ESPN Deportes (ʜᴅ) (M)
@@ -178,7 +77,6 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14050
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41661
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Deportes",ESPN EXTRA (ꜰʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14085
-
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 (ᴍ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX SPORTS 1 (ᴍ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41665
 #EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS 1 (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX SPORTS 1 (ꜱᴅ) (M)
@@ -189,23 +87,18 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55004
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/25247
 #EXTINF:-1 tvg-id="foxsports.la" tvg-name="FOX SPORTS 1 SUR 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX SPORTS 1 SUR 1080 (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/25248
-
 #EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="FOX SPORTS 2 (ᴍ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 (ᴍ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54123
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 ARGENTINA (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 ARGENTINA (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58095
-
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 CHILE (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 CHILE (ꜱᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58150
-
-
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR (ᴍ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 SUR (ᴍ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/57823
 #EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LATINOS SD",Fox Sports 2 ⁽ˢᵈ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55425
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3 ARGENTINA (ꜱᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41668
-
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 SUR ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3 SUR ⁽ᵃ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55006
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS SD",Fox Sports 3 ⁽ˢᵈ⁾ (M)
@@ -214,16 +107,9 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55426
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58066
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARGENTINA (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX SPORTS ARGENTINA (ꜰʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58065
-
-
 #EXTINF:-1 tvg-id="foxsports.las" tvg-name="FOX SPORTS PREMIUM (ʜᴅ)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/340?cb=20190602030108&path-prefix=es" group-title="Deportes",FOX SPORTS PREMIUM (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54122
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ᴍ)" tvg-logo="V" group-title="Deportes",FOX SPORTS PREMIUM (ᴍ) (M)
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://forounivers.com/uploads/monthly_2018_02/large.5a82809cec9bb_MLBNetwork.png.93d179ea57d27431c1329b2c6c04702e.png" group-title="Deportes",MLB (M)
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/53327
-
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/61489
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="Deportes",FOX SPORTS PREMIUM (ꜱᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/62490
@@ -233,11 +119,8 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58093
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/18219
 #EXTINF:-1 tvg-id="" tvg-name="FS 1 usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1280px-2015_Fox_Sports_1_logo.svg.png" group-title="Deportes",FS 1 usa (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14880
-
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SP0RTS ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Deportes",B3IN SP0RTS ⁽ᴴᴰ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14776
-#EXTINF:-1 tvg-id="" tvg-name="B3IN SPORTS (canadá)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcReUZXiKD3bv-Di2hWP5r97jswpePCz292iBQ&usqp=CAU" group-title="Deportes",B3IN SPORTS (canadá) (M)
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58157
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SPORTS 11 ⁽ᴴᴰ⁾" tvg-logo="https://4.bp.blogspot.com/-dQswCNScboY/WabfnOX_AoI/AAAAAAAAAwo/OHhHZbIg0OcM50DJm7R8qXpMbIz8u5FOQCEwYBhgL/s640/11.png" group-title="Deportes",B3IN SPORTS 11 ⁽ᴴᴰ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55244
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SPORTS 2" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" group-title="Deportes",B3IN SPORTS 2 (M)
@@ -252,15 +135,12 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/62745
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/60878
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SPORTS MAX 7" tvg-logo="https://www.mewatch.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-sports-max-7.png" group-title="Deportes",B3IN SPORTS MAX 7 (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/53442
-
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="B3IN SPORTS XTRA" tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Deportes",B3IN SPORTS XTRA (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/49360
 #EXTINF:-1 tvg-id="#0.sp" tvg-name="B3IN SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Deportes",B3IN SPORTS Ñ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14775
 #EXTINF:-1 tvg-id="" tvg-name="B3IN SPORTS Ñ ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="Deportes",B3IN SPORTS Ñ ⁽ᴹ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16688
-
-
 #EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="TNT SPORTS 1 HD (ᴍ)" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Deportes",TNT SPORTS 1 HD (ᴍ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16687
 #EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="TNT SPORTS 1 HD 1080" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Deportes",TNT SPORTS 1 HD 1080 (M)
@@ -286,4 +166,921 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/64708
 #EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TNT SPORTS ESTADIO FHD" tvg-logo="https://www.encancha.cl/u/fotografias/m/2021/1/16/f768x1-63971_64098_5050.png" group-title="Deportes",TNT SPORTS ESTADIO FHD (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
+
+#EXTINF:-1,24 group-title="Chile" Horas HD (CL) 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171 group-title="Chile"
+#EXTINF:-1,24 Horas Play HD (CL)
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172 group-title="Chile"
+#EXTINF:-1,CL: TVN SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294 group-title="Chile"
+#EXTINF:-1,CL: TVN HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295 group-title="Chile"
+#EXTINF:-1,CL: TVN FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296 group-title="Chile"
+#EXTINF:-1,CL: Mega SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35297 group-title="Chile"
+#EXTINF:-1,CL: Mega HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35298 group-title="Chile"
+#EXTINF:-1,CL: Mega FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35299 group-title="Chile"
+#EXTINF:-1,CL: Chilevision SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35300 group-title="Chile"
+#EXTINF:-1,CL: Chilevision HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35301 group-title="Chile"
+#EXTINF:-1,CL: Chilevision FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35302 group-title="Chile"
+#EXTINF:-1,CL: Canal 13 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35303 group-title="Chile"
+#EXTINF:-1,CL: Canal 13 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35304 group-title="Chile"
+#EXTINF:-1,CL: Canal 13 FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35305 group-title="Chile"
+#EXTINF:-1,CL: TV+ SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35306 group-title="Chile"
+#EXTINF:-1,CL: TV+ HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35308 group-title="Chile"
+#EXTINF:-1,CL: La Red SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35311 group-title="Chile"
+#EXTINF:-1,CL: La Red HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35310 group-title="Chile"
+#EXTINF:-1,CL: La Red FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35309 group-title="Chile"
+#EXTINF:-1,CL: La Red FHD*
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/57993 group-title="Chile"
+#EXTINF:-1,CL: 13C SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35312 group-title="Chile"
+#EXTINF:-1,CL: ADN TV
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35316 group-title="Chile"
+#EXTINF:-1,CL: Bio-Bio Chile TV HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35317 group-title="Chile"
+#EXTINF:-1,CL: Canal 9 Bío Bío HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/172729 group-title="Chile"
+#EXTINF:-1,CL: Carolina TV HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35318 group-title="Chile"
+#EXTINF:-1,CL: Rec TV SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35320 group-title="Chile"
+#EXTINF:-1,CL: TV Chile FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35321 group-title="Chile"
+#EXTINF:-1,CL: UCV 3 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35322 group-title="Chile"
+#EXTINF:-1,CL: VC Online HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35323 group-title="Chile"
+#EXTINF:-1,CL: TV Educa Chile FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/47913 group-title="Chile"
+#EXTINF:-1,CL: TV+ FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889 group-title="Chile"
+
+
+
+
+
+
+
+
+#EXTINF:-1,24/7 VIP Cinema Accion Classics FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50572
+#EXTINF:-1,24/7 VIP Cinema Ciencia Ficcion FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50573
+#EXTINF:-1,24/7 VIP Cinema Horror Classics HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50574
+#EXTINF:-1,24/7 VIP Cinema Comedia FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50575
+#EXTINF:-1,24/7 VIP Cinema DC Comics FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50576
+#EXTINF:-1,24/7 VIP Cinema DC Universe HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50577
+#EXTINF:-1,24/7 VIP Cinema Disney Family FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50578
+#EXTINF:-1,24/7 VIP Cinema Disney Pixar FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50579
+#EXTINF:-1,24/7 VIP Cinema Dreamworks FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50580
+#EXTINF:-1,24/7 VIP Cinema Familia FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50581
+#EXTINF:-1,24/7 VIP Cinema Happy Madison FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50582
+#EXTINF:-1,24/7 VIP Cinema Horror FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50583
+#EXTINF:-1,24/7 VIP Cinema Lego Movies FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50584
+#EXTINF:-1,24/7 VIP Cinema Marvel Animated FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50585
+#EXTINF:-1,24/7 VIP Cinema Marvel Studios FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50586
+#EXTINF:-1,24/7 VIP Cinema Navidad FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50587
+#EXTINF:-1,24/7 VIP Cocina Abierta FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50588
+#EXTINF:-1,24/7 VIP Cuentos de la Cripta SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50589
+#EXTINF:-1,24/7 VIP DC Hero Super Girls FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50590
+#EXTINF:-1,24/7 VIP Agreetsuko HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50591
+#EXTINF:-1,24/7 VIP Death Note HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50592
+#EXTINF:-1,24/7 VIP Detective Conan SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50593
+#EXTINF:-1,24/7 VIP Dinosaurios SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50594
+#EXTINF:-1,24/7 VIP Disney Live Action FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50595
+#EXTINF:-1,24/7 VIP Disney Princess FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50596
+#EXTINF:-1,24/7 VIP Dragon Ball Z Movies FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50597
+#EXTINF:-1,24/7 VIP El Laboratorio de Dexter SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50598
+#EXTINF:-1,24/7 VIP Futurama HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50599
+#EXTINF:-1,24/7 VIP Happy tree friends FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50601
+#EXTINF:-1,24/7 VIP HEY Kids FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50602
+#EXTINF:-1,24/7 VIP House of Mouse SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50603
+#EXTINF:-1,24/7 VIP Jimmy Neutron SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50604
+#EXTINF:-1,24/7 VIP Kung Fu Panda HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50606
+#EXTINF:-1,24/7 VIP La Casa de Mickey Mouse HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50607
+#EXTINF:-1,24/7 VIP La Guardia del Leon FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50608
+#EXTINF:-1,24/7 VIP La Sirenita HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50609
+#EXTINF:-1,24/7 VIP La Tropa Goofy HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50610
+#EXTINF:-1,24/7 VIP Lilo & Stitch SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50611
+#EXTINF:-1,24/7 VIP Lo Mejor de Donald SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50612
+#EXTINF:-1,24/7 VIP Lo Mejor de Mickey SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50613
+#EXTINF:-1,24/7 VIP Los Cazafantasmas SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50614
+#EXTINF:-1,24/7 VIP Los Locos Adams
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50615
+#EXTINF:-1,24/7 VIP Los Simpsons FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50616
+#EXTINF:-1,24/7 VIP Los Simpsons Horror HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50617
+#EXTINF:-1,24/7 VIP Los Simpsons Retro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50618
+#EXTINF:-1,24/7 VIP Masha y el Oso HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50620
+#EXTINF:-1,24/7 Mazinger Z
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50621
+#EXTINF:-1,24/7 VIP Moviecenter Kids FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50622
+#EXTINF:-1,24/7 VIP Moviecenter Premium FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50623
+#EXTINF:-1,24/7 VIP Moviecenter Premium Este FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50624
+#EXTINF:-1,24/7 VIP Moviecenter Premium Oeste FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50625
+#EXTINF:-1,24/7 VIP Paw Patrol FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50626
+#EXTINF:-1,24/7 VIP Peppa Pig FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50627
+#EXTINF:-1,24/7 VIP Pinguinos de Madagascar HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50628
+#EXTINF:-1,24/7 VIP Pocoyo FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50630
+#EXTINF:-1,24/7 VIP Rick y Morty FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50631
+#EXTINF:-1,24/7 VIP South Park FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50632
+#EXTINF:-1,24/7 VIP Talking Tom FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50633
+#EXTINF:-1,24/7 VIP 31 Minutos HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50635
+#EXTINF:-1,24/7 VIP Sailor Moon SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50636
+#EXTINF:-1,24/7 VIP Pato Aventura SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50637
+#EXTINF:-1,24/7 VIP Quack Pack SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50638
+#EXTINF:-1,24/7 VIP Animaniacs SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50640
+#EXTINF:-1,24/7 VIP Big Mouth HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50641
+#EXTINF:-1,24/7 VIP Tiny Toons SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50642
+#EXTINF:-1,24/7 VIP Un Show Mas HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50643
+#EXTINF:-1,24/7 Dragon Ball Z: Saga Saiyajin
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34405
+#EXTINF:-1,24/7 Cantiflas SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34407
+#EXTINF:-1,24/7 Futurama SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34408
+#EXTINF:-1,24/7 Chespirito SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34412
+#EXTINF:-1,24/7 Los Simpsons SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34416
+#EXTINF:-1,24/7 Los supersonicos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34417
+#EXTINF:-1,24/7 Super Campeones SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34420
+#EXTINF:-1,24/7 Los Pinguinos de madagascar HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34422
+#EXTINF:-1,24/7 Dragon ball GT SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34424
+#EXTINF:-1,24/7 Harry Potter HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34426
+#EXTINF:-1,24/7 Teen Titans Go FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34427
+#EXTINF:-1,24/7 Chernobyl HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34428
+#EXTINF:-1,24/7 Batman Del Futuro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34432
+#EXTINF:-1,24/7 Avengers FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34433
+#EXTINF:-1,24/7 Rápidos y Furiosos FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34436
+#EXTINF:-1,24/7 Volver al Futuro FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34437
+#EXTINF:-1,24/7 Spartacus SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34438
+#EXTINF:-1,24/7 Saw FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34439
+#EXTINF:-1,24/7 John Wick FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34440
+#EXTINF:-1,24/7 Pantera Rosa OLD SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34443
+#EXTINF:-1,24/7 Bob Esponja SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34445
+#EXTINF:-1,24/7 Chespirito SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34448
+#EXTINF:-1,24/7 Doraemon SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34451
+#EXTINF:-1,24/7 Looney Tunes SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34455
+#EXTINF:-1,24/7 One Punch Man SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34457
+#EXTINF:-1,24/7 Infantiles SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34458
+#EXTINF:-1,24/7 Pokemon SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34459
+#EXTINF:-1,24/7 Samurai X SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34460
+#EXTINF:-1,24/7 Yu-Gi-Oh SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34464
+#EXTINF:-1,24/7 Dragon Ball SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34466
+#EXTINF:-1,24/7 Games of Thrones SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34467
+#EXTINF:-1,24/7 Sakura SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34471
+#EXTINF:-1,24/7 Mr. Bean SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34472
+#EXTINF:-1,24/7 Chapulin Colorado SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34473
+#EXTINF:-1,24/7 El Chavo del 8 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34474
+#EXTINF:-1,24/7 Alf SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34475
+#EXTINF:-1,24/7 Scooby Doo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/34476
+#EXTINF:-1,24/7 Jurassic Park FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35444
+#EXTINF:-1,24/7 SAW SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35445
+#EXTINF:-1,24/7 Teen Titans Go SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35446
+#EXTINF:-1,24/7 Dragon Ball Z
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35448
+#EXTINF:-1,24/7 The Big Bang Theory SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35452
+#EXTINF:-1,24/7 Avengers SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35453
+#EXTINF:-1,24/7 CANTINFLAS (M) SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35454
+#EXTINF:-1,24/7 Dragon ball GT FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35455
+#EXTINF:-1,24/7 Volver al futuro FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35459
+#EXTINF:-1,24/7 Game Of Thrones (Dual) SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35460
+#EXTINF:-1,24/7 Los super campeones SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35461
+#EXTINF:-1,24/7 Garfield SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35462
+#EXTINF:-1,24/7 Family Guy SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35463
+#EXTINF:-1,24/7 The Big Bang Theory 2 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35469
+#EXTINF:-1,24/7 Tom y Jerry SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35470
+#EXTINF:-1,24/7 Peppa Pig HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35480
+#EXTINF:-1,24/7 Looney Tunes Platinum SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35481
+#EXTINF:-1,24/7 Ben 10: Fuerza Alienigena HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35482
+#EXTINF:-1,24/7 Daniel El Travieso SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35483
+#EXTINF:-1,24/7 Tom y Jerry SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35484
+#EXTINF:-1,24/7 Las Nuevas Aventuras De Hi-Man SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35485
+#EXTINF:-1,24/7 Hi-Man SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35486
+#EXTINF:-1,24/7 Transformers SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35487
+#EXTINF:-1,24/7 Pinky ElMyra Y Cerebro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35488
+#EXTINF:-1,24/7 Thundercat SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35490
+#EXTINF:-1,24/7 Star Trek 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35491
+#EXTINF:-1,24/7 Sony Y Su Banda SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35492
+#EXTINF:-1,24/7 Scooby Doo: Dónde estás? SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35493
+#EXTINF:-1,24/7 Robotech SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35494
+#EXTINF:-1,24/7 El Pájaro Loco SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35495
+#EXTINF:-1,24/7 Batman HD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35496
+#EXTINF:-1,24/7 Los Picapiedras SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35497
+#EXTINF:-1,24/7 Fenomenoide SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35500
+#EXTINF:-1,24/7 La Pequeña LuLú SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35501
+#EXTINF:-1,24/7 El Conde Patula SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35504
+#EXTINF:-1,24/7 Gasparin Y Sus Amigos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35506
+#EXTINF:-1,24/7 South Park HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35509
+#EXTINF:-1,24/7 Phineas Y Ferb HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35510
+#EXTINF:-1,24/7 Patoaventura 2017 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35511
+#EXTINF:-1,24/7 Padre De Familia HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35512
+#EXTINF:-1,24/7 Miraculous: Las Aventura De Ladybug HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35513
+#EXTINF:-1,24/7 La Ley De Milo Murphy HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35514
+#EXTINF:-1,24/7 Gravity falls HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35515
+#EXTINF:-1,24/7 Chapulín Colorado Animado HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35516
+#EXTINF:-1,24/7 Bob Esponja HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35517
+#EXTINF:-1,24/7 PatoAventuras 1987 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35518
+#EXTINF:-1,24/7 Megaman SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35522
+#EXTINF:-1,24/7 Malcolm HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35523
+#EXTINF:-1,24/7 Los Caballeros Del Zodiaco HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35524
+#EXTINF:-1,24/7 Hey Arnold SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35525
+#EXTINF:-1,24/7 El Show De Looney Tunes HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35526
+#EXTINF:-1,24/7 Duck Dodgers HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35527
+#EXTINF:-1,24/7 Dragon ball Super HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35528
+#EXTINF:-1,24/7 Dragon ball  Gt HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35529
+#EXTINF:-1,24/7 Digimo Adventure SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35530
+#EXTINF:-1,24/7 Ben 10 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35531
+#EXTINF:-1,24/7 Baron Rojo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35532
+#EXTINF:-1,24/7  Scooby Doo HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35533
+#EXTINF:-1,24/7 Ranma 1/2 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35534
+#EXTINF:-1,24/7 Halcones Galáctico SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35535
+#EXTINF:-1,24/7 Exponiendo Infieles SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49158
+#EXTINF:-1,24/7 Caso Cerrado Inmigracion SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49159
+#EXTINF:-1,24/7 Caso Cerrado La Familia 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49160
+#EXTINF:-1,24/7 Caso Cerrado La Familia 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49161
+#EXTINF:-1,24/7 Caso Cerrado La Familia 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49162
+#EXTINF:-1,24/7 Laura Bozzo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49163
+#EXTINF:-1,24/7 Miguelito SD (Chile)
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49164
+#EXTINF:-1,24/7 Lo Que Callamos Las Mujeres SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49165
+#EXTINF:-1,24/7 Mayday Catastrofes Aereas SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49166
+#EXTINF:-1,24/7 Alienigenas Ancestrales SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49167
+#EXTINF:-1,24/7 El Mundo De Beakman Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49168
+#EXTINF:-1,24/7 El Mundo De Beakman Temp 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49169
+#EXTINF:-1,24/7 El Mundo De Beakman Temp 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49170
+#EXTINF:-1,24/7 El Mundo De Beakman Temp 4 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49171
+#EXTINF:-1,24/7 Castle Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49172
+#EXTINF:-1,24/7 Castle Temp 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49174
+#EXTINF:-1,24/7 Castle Temp 4 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49175
+#EXTINF:-1,24/7 Castle Temp 5 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49176
+#EXTINF:-1,24/7 Castle Temp 6 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49177
+#EXTINF:-1,24/7 Castle Temp 7 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49178
+#EXTINF:-1,24/7 CSI Miami Temp 1-5 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49179
+#EXTINF:-1,24/7 CSI Miami Temp 6-10 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49180
+#EXTINF:-1,24/7 NCIS Los Angeles SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49181
+#EXTINF:-1,24/7 Los Magnificos Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49182
+#EXTINF:-1,24/7 El Auto Fantastico SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49184
+#EXTINF:-1,24/7 El Auto Fantastico (2008) SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49185
+#EXTINF:-1,24/7 MacGiver (2016) Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49186
+#EXTINF:-1,24/7 MacGiver (2016) Temp 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49187
+#EXTINF:-1,24/7 ER Sala de Urgencias SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49188
+#EXTINF:-1,24/7 Los 3 Chiflados SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49190
+#EXTINF:-1,24/7 Pedro Infante SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49191
+#EXTINF:-1,24/7 Hechizada Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49192
+#EXTINF:-1,24/7 Hechizada Temp 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49194
+#EXTINF:-1,24/7 Hechizada Temp 4 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49195
+#EXTINF:-1,24/7 Hechizada Temp 5 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49196
+#EXTINF:-1,24/7 Hechizada Temp 6 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49197
+#EXTINF:-1,24/7 La Niñera Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49198
+#EXTINF:-1,24/7 Friends Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49199
+#EXTINF:-1,24/7 Hannah Montana Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49201
+#EXTINF:-1,24/7 Paso A Paso SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49203
+#EXTINF:-1,24/7 La Hora Pico SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49204
+#EXTINF:-1,24/7 Vecinos Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49207
+#EXTINF:-1,24/7 Vecinos Temp 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49208
+#EXTINF:-1,24/7 Vecinos Temp 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49209
+#EXTINF:-1,24/7 Vecinos Temp 4 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49210
+#EXTINF:-1,24/7 Vecinos Temp 5 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49211
+#EXTINF:-1,24/7 Full House Temp 1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49212
+#EXTINF:-1,24/7 Full House Temp 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49213
+#EXTINF:-1,24/7 Paradise PD SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49214
+#EXTINF:-1,24/7 Brickleberry SD (+15)
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49217
+#EXTINF:-1,24/7 Barney y sus Amigos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49219
+#EXTINF:-1,24/7 Animaniacs SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49221
+#EXTINF:-1,24/7 Autobus Magico SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49222
+#EXTINF:-1,24/7 Bubble Guppies SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49224
+#EXTINF:-1,24/7 Donde esta Wally SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49225
+#EXTINF:-1,24/7 Dora la Exploradora SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49226
+#EXTINF:-1,24/7 Dora y sus Amigos en la Ciudad SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49227
+#EXTINF:-1,24/7 El Laboratorio de Dexter SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49230
+#EXTINF:-1,24/7 Fabulas de Esopo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49232
+#EXTINF:-1,24/7 La Casa de Mickey Mouse SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49233
+#EXTINF:-1,24/7 La Doctora Juguete SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49234
+#EXTINF:-1,24/7 Las Pistas de Blue SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49235
+#EXTINF:-1,24/7 Paw Patroll SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49236
+#EXTINF:-1,24/7 She-Ra La Princesa del Poder SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49239
+#EXTINF:-1,24/7 Capitán Planeta y Los Planetarios SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49240
+#EXTINF:-1,24/7 Sailor Moon SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49241
+#EXTINF:-1,24/7 Las Guerreras Magicas SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49242
+#EXTINF:-1,24/7 Angry Birds Toons SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49244
+#EXTINF:-1,24/7 Aladino SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49245
+#EXTINF:-1,24/7 Birdman SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49246
+#EXTINF:-1,24/7 Gargolas Heroes Goticos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49247
+#EXTINF:-1,24/7 Spiderman SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49248
+#EXTINF:-1,24/7 Super Mario Bross 3 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49249
+#EXTINF:-1,24/7 Beast Wars SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49251
+#EXTINF:-1,24/7 Beast Wars Machines SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49252
+#EXTINF:-1,24/7 Gi Joe SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49253
+#EXTINF:-1,24/7 Rugrats Aventura en Pañales SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49254
+#EXTINF:-1,24/7 Capitan Cabernicola SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49256
+#EXTINF:-1,24/7 Jhonny Bravo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49257
+#EXTINF:-1,24/7 La Vaca y el Pollito SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49258
+#EXTINF:-1,24/7 Los Años Maravillosos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49259
+#EXTINF:-1,24/7 Las Aventuras de Tin Tin SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49260
+#EXTINF:-1,24/7 Inspector Gadget SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49261
+#EXTINF:-1,24/7 El Oso Yogui SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49262
+#EXTINF:-1,24/7 Los Muppet Babys SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49263
+#EXTINF:-1,24/7 Candy Candy SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49264
+#EXTINF:-1,24/7 El Reto de los Super Amigos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49267
+#EXTINF:-1,24/7 Fenomenoide SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49268
+#EXTINF:-1,24/7 La Hormiga y el Oso Hormiguero SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49269
+#EXTINF:-1,24/7 El Super Libro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49271
+#EXTINF:-1,24/7 Los 7 Pecados Capitales SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49272
+#EXTINF:-1,24/7 Timon & Pumbaa SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49273
+#EXTINF:-1,24/7 La Casa de los Dibujos SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49274
+#EXTINF:-1,24/7 El Gallo Claudio SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49275
+#EXTINF:-1,24/7 Sonic X SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49280
+#EXTINF:-1,24/7 Street Sharks SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49281
+#EXTINF:-1,24/7 Generador Rex SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49282
+#EXTINF:-1,24/7 Megaman NT Warrior SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49286
+#EXTINF:-1,24/7 Xena La Princesa Guerrera SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49287
+#EXTINF:-1,24/7 Hercules Los Viajes Legendarios SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49288
+#EXTINF:-1,24/7 Liveman SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49289
+#EXTINF:-1,24/7 1000 Maneras de Morir SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49291
+#EXTINF:-1,24/7 Contacto Extranormal SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49293
+#EXTINF:-1,24/7 Historias de Ultratumba SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/49294
+#EXTINF:-1,24/7 Smallville SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/50649
+#EXTINF:-1,24/7 VIP Cinema Marvel Studios Este FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58067
+#EXTINF:-1,24/7 VIP Cinema Marvel Studios Oeste FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58068
+#EXTINF:-1,24/7 VIP Cinema Anime [test] FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58069
+#EXTINF:-1,24/7 VIP Retro Simpsons SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58071
+#EXTINF:-1,24/7 VIP 31 Minutos SD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58073
+#EXTINF:-1,24/7 VIP Camaras Escondidas TV ⁽ᴴᴰ⁾
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58075
+#EXTINF:-1,24/7 VIP Bob Esponja SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58076
+#EXTINF:-1,24/7 VIP YooHoo and Friends HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58079
+#EXTINF:-1,24/7 VIP Donald Channel SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58081
+#EXTINF:-1,24/7 VIP Dragon Ball HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58082
+#EXTINF:-1,24/7 VIP Dragon Ball 2 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58083
+#EXTINF:-1,24/7 VIP Dragon Ball GT SD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58084
+#EXTINF:-1,24/7 VIP Duck Dodgers SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58085
+#EXTINF:-1,24/7 VIP El Pajaro Loco SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58086
+#EXTINF:-1,24/7 VIP Fenomenoide SD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58087
+#EXTINF:-1,24/7 VIP Gallo claudio SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58088
+#EXTINF:-1,24/7 VIP Amazon Kids (Test) FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58090
+#EXTINF:-1,24/7 VIP Happy Halloween Kids HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58091
+#EXTINF:-1,24/7 VIP Novasur HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58092
+#EXTINF:-1,24/7 VIP Huevos Verdes con Jamon HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58094
+#EXTINF:-1,24/7 VIP Teen Titans GO FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58095
+#EXTINF:-1,24/7 VIP Little Pet Shop HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58096
+#EXTINF:-1,24/7 VIP El Show de Garfield FHD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58097
+#EXTINF:-1,24/7 VIP Timon y Pumba SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58099
+#EXTINF:-1,24/7 VIP Mickey Mouse
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58100
+#EXTINF:-1,24/7 VIP Lo Mejor de Pluto SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58101
+#EXTINF:-1,24/7 VIP Doug SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58103
+#EXTINF:-1,24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58105
+#EXTINF:-1,24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58106
+#EXTINF:-1,24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58107
+#EXTINF:-1,24/7 VIP Doraemon FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58108
+#EXTINF:-1,24/7 VIP Supercampeones SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58109
+#EXTINF:-1,24/7 VIP Los Croods HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58111
+#EXTINF:-1,24/7 VIP Los Picapiedras SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58112
+#EXTINF:-1,24/7 VIP Street Shark SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58114
+#EXTINF:-1,24/7 VIP She-ra SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58115
+#EXTINF:-1,24/7 VIP Looney Tunes Show FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58116
+#EXTINF:-1,24/7 VIP Looney Tunes HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58117
+#EXTINF:-1,24/7 VIP Grupo Increible SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58119
+#EXTINF:-1,24/7 VIP El Chavo HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58120
+#EXTINF:-1,24/7 VIP Chespirito TV
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58121
+#EXTINF:-1,24/7 VIP Sam y Cat HD 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58122
+#EXTINF:-1,24/7 VIP Mr.Bean SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58123
+#EXTINF:-1,24/7 VIP TWD Channel FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58125
+#EXTINF:-1,24/7 VIP Buenazo TV FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58126
+#EXTINF:-1,24/7 VIP Cocina Real TV FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58127
+#EXTINF:-1,24/7 VIP Riquisimo FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58128
+#EXTINF:-1,24/7 VIP Mega Gourmet HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58129
+#EXTINF:-1,24/7 VIP 13 Docu SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58130
+#EXTINF:-1,24/7 VIP Hagalo Usted Mismo TV
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58131
+#EXTINF:-1,24/7 VIP La Resistencia FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58134
+#EXTINF:-1,24/7 VIP La Resistencia Canal 2 FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58135
+#EXTINF:-1,24/7 ALF SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58260
+#EXTINF:-1,24/7 Animaniacs SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58262
+#EXTINF:-1,24/7 11 Beetlejuice HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58263
+#EXTINF:-1,24/7 Cantinflas HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58264
+#EXTINF:-1,24/7 Caso Cerrado HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58265
+#EXTINF:-1,24/7 Coraje SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58267
+#EXTINF:-1,24/7 Daniel el travieso SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58268
+#EXTINF:-1,24/7 Dinky Dog SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58269
+#EXTINF:-1,24/7 Dragon Ball GT HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58271
+#EXTINF:-1,24/7 Dragon Ball Super HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58273
+#EXTINF:-1,24/7 Drama Total SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58276
+#EXTINF:-1,24/7 El Fantastico Max SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58277
+#EXTINF:-1,24/7 El Chavo Del 8 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58278
+#EXTINF:-1,24/7 El Escuadron De Super Heroes SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58279
+#EXTINF:-1,24/7 El Gato Felix SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58280
+#EXTINF:-1,24/7 11 El General Naranjo HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58281
+#EXTINF:-1,24/7 El Jinete Sable y los comisarios estrella SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58283
+#EXTINF:-1,24/7 El Principe De Rap SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58284
+#EXTINF:-1,24/7 El Principe Del Rap 2 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58285
+#EXTINF:-1,24/7 El Reto De Los Super Amigos HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58286
+#EXTINF:-1,24/7 Escuela de Heroes SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58288
+#EXTINF:-1,24/7 Especiales de Halloween 2019 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58289
+#EXTINF:-1,24/7 Foofur SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58290
+#EXTINF:-1,24/7 Friends HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58291
+#EXTINF:-1,24/7 Hong Kong Phooey SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58296
+#EXTINF:-1,24/7 Las aventuras de Tom Sawyer SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58298
+#EXTINF:-1,24/7 Las Nuevas Peliculas De Scooby Doo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58300
+#EXTINF:-1,24/7 Los Caballeros del Zodiaco SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58301
+#EXTINF:-1,24/7 Los Cazafantasmas SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58302
+#EXTINF:-1,24/7 Los Cuentos De La Calle Broca SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58303
+#EXTINF:-1,24/7 Los Dragones de la Mesa Cuadrada SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58304
+#EXTINF:-1,24/7 Los Locos Addams SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58306
+#EXTINF:-1,24/7 Los peligros De Penelope Glamour SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58307
+#EXTINF:-1,24/7 Los peligros De Penelope Glamour SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58308
+#EXTINF:-1,24/7 Los pequeños Looney Tunes HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58309
+#EXTINF:-1,24/7 Los pequeños Tom y Jerry SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58310
+#EXTINF:-1,24/7 Los Picapiedras SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58311
+#EXTINF:-1,24/7 11 Los Simpsons HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58314
+#EXTINF:-1,24/7 Los Super Globetrotters SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58315
+#EXTINF:-1,24/7 MALCOLM SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58317
+#EXTINF:-1,24/7 Mi Monstruito SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58319
+#EXTINF:-1,24/7 Pajaro Loco HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58322
+#EXTINF:-1,24/7 Piernas Locas Crane SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58325
+#EXTINF:-1,24/7 Abbott y Costello SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58157
+#EXTINF:-1,24/7 Timon y Pumba HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58230
+#EXTINF:-1,24/7 The Big Bang Theory FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58228
+#EXTINF:-1,24/7 Supercampeones SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58223
+#EXTINF:-1,24/7 Shurato SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58220
+#EXTINF:-1,24/7 Seabert SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58218
+#EXTINF:-1,24/7 Pulgarcito Investigador Privado SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58215
+#EXTINF:-1,24/7 Pequeños Planetas HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58212
+#EXTINF:-1,24/7 Mighty Ducks SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58210
+#EXTINF:-1,24/7 Mi pobre angelito SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58209
+#EXTINF:-1,24/7 Los Imposibles SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58208
+#EXTINF:-1,24/7 Loop y De Loop SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58149
+#EXTINF:-1,24/7 Looney Tunes  1 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58207
+#EXTINF:-1,24/7 La ranita Demetan SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58203
+#EXTINF:-1,24/7 La Guerra de Sakura SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58201
+#EXTINF:-1,24/7 La Granja SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58200
+#EXTINF:-1,24/7 La Familia Proud SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58198
+#EXTINF:-1,24/7 Kidd-Video SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58194
+#EXTINF:-1,24/7 Historias De Fantasmas HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58190
+#EXTINF:-1,24/7 He Man SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58189
+#EXTINF:-1,24/7 Guerra De Bestias Transformers SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58188
+#EXTINF:-1,24/7 Full metal Alchemist SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58185
+#EXTINF:-1,24/7 Family Guy HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58183
+#EXTINF:-1,24/7 Fábulas del Bosque Verde SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58186
+#EXTINF:-1,24/7 Espíritu de lucha SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58182
+#EXTINF:-1,24/7 Elfen Lied HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58181
+#EXTINF:-1,24/7 El show de Scooby Doo y ScrappyDoo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58179
+#EXTINF:-1,24/7 El Principe del Tenis SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58178
+#EXTINF:-1,24/7 Dr House HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58177
+#EXTINF:-1,24/7 Dog City SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58176
+#EXTINF:-1,24/7 DNA² SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58175
+#EXTINF:-1,24/7 Dartacán y los tres mosqueperros SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58174
+#EXTINF:-1,24/7 Cowboy Bebop SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58173
+#EXTINF:-1,24/7 Clue Club SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58172
+#EXTINF:-1,24/7 Chicos Del Barrio HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58171
+#EXTINF:-1,24/7 Chica Marioneta SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58169
+#EXTINF:-1,24/7 Capitan Futuro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58167
+#EXTINF:-1,24/7 Capitán Centella SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58168
+#EXTINF:-1,24/7 Burst Angel HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58166
+#EXTINF:-1,24/7 Bandidos en el tiempo SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58164
+#EXTINF:-1,24/7 Bailando con vampiros HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58163
+#EXTINF:-1,24/7 Aventuras de un lobo adolescente SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58162
+#EXTINF:-1,24/7 Archie y Sabrina la Hechicera SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58161
+#EXTINF:-1,24/7 Angel la niña de la flores SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58160
+#EXTINF:-1,24/7 American Dad 2 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58159
+#EXTINF:-1,24/7 Almendrita SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58158
+#EXTINF:-1,24/7 Zoids Fuzors SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58237
+#EXTINF:-1,24/7 X Men Evolution SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58236
+#EXTINF:-1,24/7 Wolfs Rain SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58235
+#EXTINF:-1,24/7 Transformers Prime HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58233
+#EXTINF:-1,24/7 Tokko HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58231
+#EXTINF:-1,24/7 11 La Tortuga DArtagnan y DumDum SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58204
+#EXTINF:-1,24/7 11 Locos Dieciséis SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58206
+#EXTINF:-1,24/7 11 Oban Star-Racers HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58211
+#EXTINF:-1,24/7 11 Saikano HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58217
+#EXTINF:-1,24/7 11 SuperGirl HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58224
+#EXTINF:-1,24/7 11 Tarzan HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58226
+#EXTINF:-1,24/7 11 Tarzan, el señor de la jungla SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58227
+#EXTINF:-1,24/7 11 Thundarr, el barbaro SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58229
+#EXTINF:-1,24/7 11 Wildcats SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/58234
 
