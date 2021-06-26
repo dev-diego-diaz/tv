@@ -45,7 +45,7 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/61849
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/57325
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 CHILE 720" tvg-logo="https://logodix.com/logo/313657.png" group-title="Deportes",ESPN 2 CHILE 720 (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16686
-#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE SD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="LATINOS SD",ESPN 2 CHILE SD (M)
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 CHILE SD" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Deportes",ESPN 2 CHILE SD (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55413
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 2 NORTE (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1200px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 NORTE (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/61490
@@ -57,7 +57,7 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54399
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/14869
 #EXTINF:-1 tvg-id="espn2.co" tvg-name="ESPN 2 SUR (ʜᴅ)" tvg-logo="https://logodix.com/logo/313657.png" group-title="Deportes",ESPN 2 SUR (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/609
-#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="LATINOS SD",ESPN 3 (M)
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="ESPN 3" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/3e99c57a-516c-385d-9c22-2e40aebc7129.png" group-title="Deportes",ESPN 3 (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55414
 #EXTINF:-1 tvg-id="espn3.mx" tvg-name="ESPN 3 (ꜰʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 (ꜰʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54124
@@ -95,13 +95,13 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58095
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58150
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SUR (ᴍ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX SPORTS 2 SUR (ᴍ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/57823
-#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="LATINOS SD",Fox Sports 2 ⁽ˢᵈ⁾ (M)
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="Fox Sports 2 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",Fox Sports 2 ⁽ˢᵈ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55425
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 ARGENTINA (ꜱᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3 ARGENTINA (ꜱᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41668
 #EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="FOX SPORTS 3 SUR ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX SPORTS 3 SUR ⁽ᵃ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55006
-#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="LATINOS SD",Fox Sports 3 ⁽ˢᵈ⁾ (M)
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="Fox Sports 3 ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 ⁽ˢᵈ⁾ (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/55426
 #EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS ARGENTINA (ʜᴅ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX SPORTS ARGENTINA (ʜᴅ) (M)
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/58066
@@ -167,68 +167,68 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/64708
 http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
 
-#EXTINF:-1,24 group-title="Chile" Horas HD (CL) 
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171 group-title="Chile"
-#EXTINF:-1,24 Horas Play HD (CL)
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172 group-title="Chile"
-#EXTINF:-1,CL: TVN SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294 group-title="Chile"
-#EXTINF:-1,CL: TVN HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295 group-title="Chile"
-#EXTINF:-1,CL: TVN FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296 group-title="Chile"
-#EXTINF:-1,CL: Mega SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35297 group-title="Chile"
-#EXTINF:-1,CL: Mega HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35298 group-title="Chile"
-#EXTINF:-1,CL: Mega FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35299 group-title="Chile"
-#EXTINF:-1,CL: Chilevision SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35300 group-title="Chile"
-#EXTINF:-1,CL: Chilevision HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35301 group-title="Chile"
-#EXTINF:-1,CL: Chilevision FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35302 group-title="Chile"
-#EXTINF:-1,CL: Canal 13 SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35303 group-title="Chile"
-#EXTINF:-1,CL: Canal 13 HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35304 group-title="Chile"
-#EXTINF:-1,CL: Canal 13 FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35305 group-title="Chile"
-#EXTINF:-1,CL: TV+ SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35306 group-title="Chile"
-#EXTINF:-1,CL: TV+ HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35308 group-title="Chile"
-#EXTINF:-1,CL: La Red SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35311 group-title="Chile"
-#EXTINF:-1,CL: La Red HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35310 group-title="Chile"
-#EXTINF:-1,CL: La Red FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35309 group-title="Chile"
-#EXTINF:-1,CL: La Red FHD*
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/57993 group-title="Chile"
-#EXTINF:-1,CL: 13C SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35312 group-title="Chile"
-#EXTINF:-1,CL: ADN TV
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35316 group-title="Chile"
-#EXTINF:-1,CL: Bio-Bio Chile TV HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35317 group-title="Chile"
-#EXTINF:-1,CL: Canal 9 Bío Bío HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/172729 group-title="Chile"
-#EXTINF:-1,CL: Carolina TV HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35318 group-title="Chile"
-#EXTINF:-1,CL: Rec TV SD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35320 group-title="Chile"
-#EXTINF:-1,CL: TV Chile FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35321 group-title="Chile"
-#EXTINF:-1,CL: UCV 3 HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35322 group-title="Chile"
-#EXTINF:-1,CL: VC Online HD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35323 group-title="Chile"
-#EXTINF:-1,CL: TV Educa Chile FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/47913 group-title="Chile"
-#EXTINF:-1,CL: TV+ FHD
-http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889 group-title="Chile"
+#EXTINF:-1,Chile Horas HD (Chile) 
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
+#EXTINF:-1,Chile Horas Play HD (CL)
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172
+#EXTINF:-1,Chile: TVN SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294
+#EXTINF:-1,Chile: TVN HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295
+#EXTINF:-1,Chile: TVN FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296
+#EXTINF:-1,Chile: Mega SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35297
+#EXTINF:-1,Chile: Mega HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35298
+#EXTINF:-1,Chile: Mega FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35299
+#EXTINF:-1,Chile: Chilevision SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35300
+#EXTINF:-1,Chile: Chilevision HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35301
+#EXTINF:-1,Chile: Chilevision FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35302
+#EXTINF:-1,Chile: Canal 13 SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35303
+#EXTINF:-1,Chile: Canal 13 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35304
+#EXTINF:-1,Chile: Canal 13 FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35305
+#EXTINF:-1,Chile: TV+ SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35306
+#EXTINF:-1,Chile: TV+ HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35308
+#EXTINF:-1,Chile: La Red SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35311
+#EXTINF:-1,Chile: La Red HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35310
+#EXTINF:-1,Chile: La Red FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35309
+#EXTINF:-1,Chile: La Red FHD*
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/57993
+#EXTINF:-1,Chile: 13C SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35312
+#EXTINF:-1,Chile: ADN TV
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35316
+#EXTINF:-1,Chile: Bio-Bio Chile TV HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35317
+#EXTINF:-1,Chile: Canal 9 Bío Bío HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/172729
+#EXTINF:-1,Chile: Carolina TV HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35318
+#EXTINF:-1,Chile: Rec TV SD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35320
+#EXTINF:-1,Chile: TV Chile FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35321
+#EXTINF:-1,Chile: UCV 3 HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35322
+#EXTINF:-1,Chile: VC Online HD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35323
+#EXTINF:-1,Chile: TV Educa Chile FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/47913
+#EXTINF:-1,Chile: TV+ FHD
+http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/123889
 
 
 
