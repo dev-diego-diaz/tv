@@ -169,35 +169,42 @@ http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15878
 
 
 
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="24 Horas HD" group-title="Chile",24 hrs HD (G)
+#EXTINF:-1 tvg-name="24 Horas HD" group-title="Chile",24 hrs HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35171
 
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="24 Horas Play HD" group-title="Chile",24 Horas Play HD (G)
+#EXTINF:-1 tvg-name="24 Horas Play HD" group-title="Chile",24 Horas Play HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35172
 
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN SD" group-title="Chile",TVN SD (G)
+#EXTINF:-1 tvg-name="TVN SD" group-title="Chile",TVN SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35294
 
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN HD" group-title="Chile",TVN HD (G)
+#EXTINF:-1 tvg-name="TVN HD" group-title="Chile",TVN HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35295
 
-#EXTINF:-1 tvg-id="cdfp.cl" tvg-name="TVN FHD" group-title="Chile",TVN FHD (G)
+#EXTINF:-1 tvg-name="TVN FHD" group-title="Chile",TVN FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35296
 
-#EXTINF:-1,Chile: Mega SD
+#EXTINF:-1 tvg-name="Mega SD" group-title="Chile",Mega SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35297
-#EXTINF:-1,Chile: Mega HD
+
+#EXTINF:-1 tvg-name="Mega HD" group-title="Chile",Mega HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35298
-#EXTINF:-1,Chile: Mega FHD
+
+#EXTINF:-1 tvg-name="Mega FHD" group-title="Chile",Mega FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35299
-#EXTINF:-1,Chile: Chilevision SD
+
+#EXTINF:-1 tvg-name="Chilevision SD" group-title="Chile",Chilevision SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35300
-#EXTINF:-1,Chile: Chilevision HD
+
+#EXTINF:-1 tvg-name="Chilevision HD" group-title="Chile",Chilevision HD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35301
-#EXTINF:-1,Chile: Chilevision FHD
+
+#EXTINF:-1 tvg-name="Chilevision FHD" group-title="Chile",Chilevision FHD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35302
-#EXTINF:-1,Chile: Canal 13 SD
+
+#EXTINF:-1 tvg-name="Canal 13 SD" group-title="Chile",Canal 13 SD (G)
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35303
+
 #EXTINF:-1,Chile: Canal 13 HD
 http://dnsplay.xyz:80/mzfqznhs/bb6I76C7am/35304
 #EXTINF:-1,Chile: Canal 13 FHD
