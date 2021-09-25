@@ -1,74 +1,211 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/271.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="" group-title="24/7",24/7 Bewitched Hechizada
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/276.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mi Bella Genio" tvg-logo="" group-title="24/7",24/7 Mi Bella Genio
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/312.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="" group-title="24/7",24/7 El chavo del 8
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/291.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe del Rap" tvg-logo="" group-title="24/7",24/7 El Príncipe del Rap
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="" group-title="24/7",24/7 Los Picapiedra
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/8985.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Univisiontlnovelas2019.png/revision/latest?cb=20190322234439" group-title="MEXICO",USA: UNIVISION TELENOVELAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/41832
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-name="MEX: TLENOVELAS 2" tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text.png" group-title="MEXICO",MEX: TLENOVELAS 
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3818
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="CANAL DE LAS ESTRELLAS 1" tvg-logo="https://www.pikpng.com/pngl/m/97-979110_file-las-estrellas-svg-logo-del-canal-de.png" group-title="MEXICO",CANAL DE LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/1164
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MEX: LAS ESTRELLAS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MEXICO",MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3832
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MEX: LAS ESTRELLAS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MEXICO",MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3830
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="MEX: LAS ESTRELLAS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MEXICO",MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3832
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION 34 ATLANTA" tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn/images/radio-stations/atlanta/univision-34.png" group-title="MEXICO",USA: UNIVISION 34 ATLANTA
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/40974
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION LAS VEGAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="MEXICO",USA: UNIVISION LAS VEGAS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/53423
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Clic Full HD" tvg-logo="" group-title="MEXICO",Az Clic Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/256.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 7 Full HD" tvg-logo="" group-title="MEXICO",Azteca 7 Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/247.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno Full HD" tvg-logo="" group-title="MEXICO",Azteca Uno Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/261.ts
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Uno" tvg-logo="" group-title="MEXICO",Azteca Uno
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/5850.ts
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="Azteca CORAZON " tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MEXICO",MEX: AZ CORAZON 
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3850
-#EXTINF:-1 tvg-id="" tvg-name="DEPELICULA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO",MEX: DEPELICULA 
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3836
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MEXICO",MEX: GALAVISION 
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3826
-#EXTINF:-1 tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MEXICO",MEX: IMAGEN TV
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/3822
-#EXTINF:-1 tvg-id="" tvg-name="CH: REC TV" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2.png?1" group-title="CHILE",CH: REC TV
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/9865
-#EXTINF:-1 tvg-id="13c.cl" tvg-name="CH: 13C" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal13Chile-13C.png" group-title="CHILE",CH: 13C
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16175
-#EXTINF:-1 tvg-id="CL 13C" tvg-name="CL: 13C Full HD" tvg-logo="http://logos.iptv.wtf/chile/13c.png" group-title="CHILE",CL: 13C Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/46.ts
-#EXTINF:-1 tvg-id="13.cl" tvg-name="CH: CANAL 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE",CH: CANAL 13
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27155
-#EXTINF:-1 tvg-id="CL CANAL 13" tvg-name="CL: Canal 13 Full HD" tvg-logo="http://logos.iptv.wtf/chile/canal13.png" group-title="CHILE",CL: Canal 13 Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/3.ts
-#EXTINF:-1 tvg-id="" tvg-name="CH: TVN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/TVN_2016.svg/revision/latest/scale-to-width-down/340?cb=20160811021146" group-title="CHILE",CH: TVN
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/27156
-#EXTINF:-1 tvg-id="chv.cl" tvg-name="CH: CHILEVISION ⁽ᴴᴰ⁾" tvg-logo="https://www.ecured.cu/images/5/5a/Sdrfgd.png" group-title="CHILE",CH: CHILEVISION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/54997
-#EXTINF:-1 tvg-id="CL CHV" tvg-name="CL: CHV Full HD" tvg-logo="http://logos.iptv.wtf/chile/chv.png" group-title="CHILE",CL: CHV Full HD
-http://live.iptv.wtf:80/live/fpillhug/Wj4y8Ltt84/5.ts
-#EXTINF:-1 tvg-id="red.cl" tvg-name="CH: LA RED" tvg-logo="https://lh3.googleusercontent.com/proxy/5ecUUSc-YoOROa8ArmrQ_S3TxCAvJCjQAcMinqKbWugb0l7WD5RVMeB_iGajggy8Yez1K9dwNDQlF8cixu0J_Y1kAvDqcykdK_pA3zQUqcKDYS-2yB0XQE49inmYsHE" group-title="CHILE",CH: LA RED
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/518
-#EXTINF:-1 tvg-id="mega.cl" tvg-name="CH: MEGA 720 ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/16742
-#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA 1080 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE",CH: MEGA 1080 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/17284
-#EXTINF:-1 tvg-id="" tvg-name="CH: MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE",CH: MEGA PLUS
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/15864
-#EXTINF:-1 tvg-id="" tvg-name="CH: TV +" tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="CHILE",CH: TV +
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/2258
-#EXTINF:-1 tvg-id="" tvg-name="CH: ZONA LATINA ⁽ˢᵈ⁾" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR49Z6pFm-M-7ejQ5cKHl-8boA4n6rflg6Njg&usqp=CAU" group-title="CHILE",CH: ZONA LATINA ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/56978868753lux/mApZl0BUeI/60879
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Miguelito SD (Chile)" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Miguelito SD (Chile)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Que Callamos Las Mujeres SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Lo Que Callamos Las Mujeres SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos Temp 1 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Magnificos Temp 1 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Auto Fantastico SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49184
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGiver (2016) Temp 1 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MacGiver (2016) Temp 1 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGiver (2016) Temp 2 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MacGiver (2016) Temp 2 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los 3 Chiflados SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49190
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paso A Paso SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paso A Paso SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Full House Temp 1 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Full House Temp 1 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49212
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Full House Temp 2 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Full House Temp 2 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pedro Infante SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49191
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 1 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 1 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 3 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 3 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49194
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 4 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 4 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49195
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 5 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 5 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49196
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 6 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 6 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/49197
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chespirito SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34412
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Simpsons SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34416
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mr. Bean SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34472
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chapulin Colorado SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chapulin Colorado SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34473
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo del 8 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34474
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Chavo HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Chavo HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/58120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Chespirito TV" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chespirito TV
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/58121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Alf SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34475
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe De Rap SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe De Rap SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/58284
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe Del Rap 2 SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe Del Rap 2 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/58285
+
+
+
+
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="MX: AZ Clic FHD" tvg-logo="http://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",MX: AZ Clic FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43599
+#EXTINF:-1 tvg-id="AZClic.mx" tvg-name="MX: AZ Click SD" tvg-logo="http://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",MX: AZ Click SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43600
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="MX: AZ Cinema FHD" tvg-logo="http://img.tvcl.xyz/mexico/azcinema.png" group-title="Mexico",MX: AZ Cinema FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43601
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="MX: AZ Corazon FHD" tvg-logo="http://img.tvcl.xyz/mexico/azcorazon.png" group-title="Mexico",MX: AZ Corazon FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43602
+#EXTINF:-1 tvg-id="AZMundo.mx" tvg-name="MX: AZ Mundo FHD" tvg-logo="http://img.tvcl.xyz/mexico/azmundo.png" group-title="Mexico",MX: AZ Mundo FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43603
+#EXTINF:-1 tvg-id="MX - Azteca 7" tvg-name="MX: Azteca 7 FHD" tvg-logo="http://img.tvcl.xyz/mexico/aztecasiete.png" group-title="Mexico",MX: Azteca 7 FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43605
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="MX: Canal Once FHD" tvg-logo="http://img.tvcl.xyz/mexico/canalonce.png" group-title="Mexico",MX: Canal Once FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43607
+#EXTINF:-1 tvg-id="MX - FOROtv" tvg-name="MX: Foro TV FHD" tvg-logo="http://img.tvcl.xyz/mexico/forotv.png" group-title="Mexico",MX: Foro TV FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43608
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="MX: Imagen TV FHD" tvg-logo="http://img.tvcl.xyz/mexico/imagentelevision.png" group-title="Mexico",MX: Imagen TV FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43609
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX: Multimedios FHD" tvg-logo="http://img.tvcl.xyz/mexico/multimedios.png" group-title="Mexico",MX: Multimedios FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43610
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas FHD" tvg-logo="http://img.tvcl.xyz/mexico/tvmas.png" group-title="Mexico",MX: TV Mas FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43611
+#EXTINF:-1 tvg-id="INGENIO TV" tvg-name="MX: Ingenio TV SD" tvg-logo="http://img.tvcl.xyz/mexico/ingeniotv.png" group-title="Mexico",MX: Ingenio TV SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43612
+#EXTINF:-1 tvg-id="Azteca.us" tvg-name="MX: Azteca 1 SD" tvg-logo="http://img.tvcl.xyz/mexico/aztecauno.png" group-title="Mexico",MX: Azteca 1 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43613
+#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="MX: Azteca Cinema SD" tvg-logo="http://img.tvcl.xyz/mexico/azcinema.png" group-title="Mexico",MX: Azteca Cinema SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43614
+#EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="MX: Azteca Corazon SD" tvg-logo="http://img.tvcl.xyz/mexico/azcorazon.png" group-title="Mexico",MX: Azteca Corazon SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43615
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca Mundo SD" tvg-logo="http://img.tvcl.xyz/mexico/azmundo.png" group-title="Mexico",MX: Azteca Mundo SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43616
+#EXTINF:-1 tvg-id="Azteca.us" tvg-name="MX: Azteca Click SD" tvg-logo="http://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",MX: Azteca Click SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43617
+#EXTINF:-1 tvg-id="AplausoTV.us" tvg-name="MX: A Plus SD" tvg-logo="http://img.tvcl.xyz/mexico/aplus.png" group-title="Mexico",MX: A Plus SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43618
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="MX: ADN40 FHD" tvg-logo="http://img.tvcl.xyz/mexico/adn40.png" group-title="Mexico",MX: ADN40 FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43619
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="MX: TVO FHD" tvg-logo="http://img.tvcl.xyz/mexico/tvo.png" group-title="Mexico",MX: TVO FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43620
+#EXTINF:-1 tvg-id="MX - adn40" tvg-name="MX: ADN40 SD" tvg-logo="http://img.tvcl.xyz/mexico/adn40.png" group-title="Mexico",MX: ADN40 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43621
+#EXTINF:-1 tvg-id="MX - Canal Once" tvg-name="MX: Canal Once SD" tvg-logo="http://img.tvcl.xyz/mexico/canalonce.png" group-title="Mexico",MX: Canal Once SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43622
+#EXTINF:-1 tvg-id="CanalJudicial.mx" tvg-name="MX: Canal Judicial SD" tvg-logo="http://img.tvcl.xyz/mexico/canaljudicial.png" group-title="Mexico",MX: Canal Judicial SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43623
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 SD" tvg-logo="http://img.tvcl.xyz/mexico/8.png" group-title="Mexico",MX: Canal 8 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43624
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 7 SD" tvg-logo="http://img.tvcl.xyz/mexico/aztecasiete.png" group-title="Mexico",MX: Canal 7 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43625
+#EXTINF:-1 tvg-id="MX - Canal 5" tvg-name="MX: Canal 5 SD" tvg-logo="http://img.tvcl.xyz/mexico/canal5.png" group-title="Mexico",MX: Canal 5 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43626
+#EXTINF:-1 tvg-id="MX - Canal 4" tvg-name="MX: Canal 4 SD" tvg-logo="http://img.tvcl.xyz/mexico/canal4.png" group-title="Mexico",MX: Canal 4 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43627
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 26 SD" tvg-logo="http://img.tvcl.xyz/mexico/canal26.png" group-title="Mexico",MX: Canal 26 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43628
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas SD" tvg-logo="http://img.tvcl.xyz/mexico/tvmas.png" group-title="Mexico",MX: TV Mas SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43629
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="MX: Teleritmo SD" tvg-logo="http://img.tvcl.xyz/mexico/teleritmo.png" group-title="Mexico",MX: Teleritmo SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43630
+#EXTINF:-1 tvg-id="Mexiquense.mx" tvg-name="MX: Mexiquice SD" tvg-logo="http://img.tvcl.xyz/mexico/mexiquense.png" group-title="Mexico",MX: Mexiquice SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43631
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="MX: Multimedios SD" tvg-logo="http://img.tvcl.xyz/mexico/multimedios.png" group-title="Mexico",MX: Multimedios SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43632
+#EXTINF:-1 tvg-id="QTV.ua" tvg-name="MX: Q TV SD" tvg-logo="http://img.tvcl.xyz/mexico/qtv.png" group-title="Mexico",MX: Q TV SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/43633
+
+
+
+
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Televisa Monterrey SD (MX)" tvg-logo="http://img.tvcl.xyz/internacionales/televisa.png" group-title="Internacionales",Televisa Monterrey SD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35163
+#EXTINF:-1 tvg-id="XHPDT.mx" tvg-name="Televisa Puebla FHD (MX)" tvg-logo="http://img.tvcl.xyz/internacionales/televisa.png" group-title="Internacionales",Televisa Puebla FHD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35164
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional FHD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Internacional FHD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35088
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Boston HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Boston HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35089
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Chicago HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35090
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Dallas HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Dallas HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35091
+#EXTINF:-1 tvg-id="KDEN.us" tvg-name="Telemundo Denver HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Denver HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35092
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Fresno HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Fresno HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35093
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Harlingen HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Harlingen HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35094
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Houston HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Houston HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35095
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Las Vegas HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Las Vegas HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35096
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Los Angeles HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Los Angeles HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35097
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo Miami HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Miami HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35098
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo New York HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo New York HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35099
+#EXTINF:-1 tvg-id="WTMO.us" tvg-name="Telemundo Philadelphia HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Philadelphia HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35100
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo Phoenix HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Phoenix HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35101
+#EXTINF:-1 tvg-id="TelemundoKVDA.us" tvg-name="Telemundo San Francisco HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo San Francisco HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35103
+#EXTINF:-1 tvg-id="TelemundoWKAQ.us" tvg-name="Telemundo Tucson HQ (US)" tvg-logo="http://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Tucson HQ (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35104
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision Chicago HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Chicago HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35146
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision Cleveland HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Cleveland HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35147
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision EAST HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision EAST HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35149
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision Fresno HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Fresno HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35150
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision Houston HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Houston HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35151
+#EXTINF:-1 tvg-id="" tvg-name="Univision Los Angeles HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Los Angeles HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35152
+#EXTINF:-1 tvg-id="Univision23WLTV.us" tvg-name="Univision Miami HD (US)" tvg-logo="http://hidra.live:80/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="Internacionales",Univision Miami HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35153
+#EXTINF:-1 tvg-id="" tvg-name="Univision New York HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision New York HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35154
+#EXTINF:-1 tvg-id="" tvg-name="Univision Phoenix HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Phoenix HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35155
+#EXTINF:-1 tvg-id="" tvg-name="Univision Philadelphia HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Philadelphia HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35156
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision Puerto Rico HD (US)" tvg-logo="http://hidra.live:80/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="Internacionales",Univision Puerto Rico HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35157
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision Salt Lake HD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Salt Lake HD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35159
+#EXTINF:-1 tvg-id="UnivisionTelenovelas.us" tvg-name="Univision TLNovelas SD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision TLNovelas SD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35161
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision WEST FHD (US)" tvg-logo="http://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision WEST FHD (US)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35162
+
+
+
+#EXTINF:-1 tvg-id="MX - Univision" tvg-name="Univision Telenovelas SD (MX)" tvg-logo="http://img.tvcl.xyz/entretencion/univision.png" group-title="Entretención",Univision Telenovelas SD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35079
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas SD (MX)" tvg-logo="http://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas SD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35036
+#EXTINF:-1 tvg-id="MX - Las Estrellas" tvg-name="Las Estrellas FHD (MX)" tvg-logo="http://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas FHD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35037
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones SD (CO)" tvg-logo="http://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones SD (CO)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35058
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones HD (CO)" tvg-logo="http://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones HD (CO)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35059
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones FHD (CO)" tvg-logo="http://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones FHD (CO)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35060
+#EXTINF:-1 tvg-id="Canal Unicable (México)" tvg-name="Unicable SD (MX)" tvg-logo="http://img.tvcl.xyz/entretencion/unicable.png" group-title="Entretención",Unicable SD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35077
+#EXTINF:-1 tvg-id="Canal Unicable (México)" tvg-name="Unicable FHD (MX)" tvg-logo="http://img.tvcl.xyz/entretencion/unicable.png" group-title="Entretención",Unicable FHD (MX)
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35078
