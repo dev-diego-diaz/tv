@@ -1,5 +1,62 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL: TVN SD" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" group-title="Chile",CL: TVN SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35294
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL: TVN HD" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" group-title="Chile",CL: TVN HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35295
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL: TVN FHD" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" group-title="Chile",CL: TVN FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35296
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL: Mega SD" tvg-logo="http://img.tvcl.xyz/chile/mega.png" group-title="Chile",CL: Mega SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35297
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL: Mega HD" tvg-logo="http://img.tvcl.xyz/chile/mega.png" group-title="Chile",CL: Mega HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35298
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL: Mega FHD" tvg-logo="http://img.tvcl.xyz/chile/mega.png" group-title="Chile",CL: Mega FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35299
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL: Chilevision SD" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" group-title="Chile",CL: Chilevision SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35300
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL: Chilevision HD" tvg-logo="http://hidra.live:80/images/52de2ce31c7046f62e68a07eb8807379.png" group-title="Chile",CL: Chilevision HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35301
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL: Chilevision FHD" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" group-title="Chile",CL: Chilevision FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35302
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL: Canal 13 SD" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" group-title="Chile",CL: Canal 13 SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35303
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL: Canal 13 HD" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" group-title="Chile",CL: Canal 13 HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35304
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL: Canal 13 FHD" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" group-title="Chile",CL: Canal 13 FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35305
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="CL: TV+ SD" tvg-logo="http://img.tvcl.xyz/chile/tvmas.png" group-title="Chile",CL: TV+ SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35306
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="CL: TV+ HD" tvg-logo="http://img.tvcl.xyz/chile/tvmas.png" group-title="Chile",CL: TV+ HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35308
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL: La Red SD" tvg-logo="http://img.tvcl.xyz/chile/lared.png" group-title="Chile",CL: La Red SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35311
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL: La Red HD" tvg-logo="http://img.tvcl.xyz/chile/lared.png" group-title="Chile",CL: La Red HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35310
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL: La Red FHD" tvg-logo="http://img.tvcl.xyz/chile/lared.png" group-title="Chile",CL: La Red FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35309
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL: La Red FHD*" tvg-logo="http://img.tvcl.xyz/chile/lared.png" group-title="Chile",CL: La Red FHD*
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/57993
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="CL: 13C SD" tvg-logo="http://img.tvcl.xyz/chile/13c.png" group-title="Chile",CL: 13C SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35312
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="CL: ADN TV" tvg-logo="http://img.tvcl.xyz/chile/adntv.png" group-title="Chile",CL: ADN TV
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35316
+#EXTINF:-1 tvg-id="Canal9.ni" tvg-name="CL: Bio-Bio Chile TV HD" tvg-logo="" group-title="Chile",CL: Bio-Bio Chile TV HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35317
+#EXTINF:-1 tvg-id="" tvg-name="CL: Canal 9 Bío Bío HD" tvg-logo="http://img.tvcl.xyz/chile/canal9.png" group-title="Chile",CL: Canal 9 Bío Bío HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/172729
+#EXTINF:-1 tvg-id="CatholicTV.us" tvg-name="CL: Carolina TV HD" tvg-logo="http://img.tvcl.xyz/chile/carolinatv.png" group-title="Chile",CL: Carolina TV HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35318
+#EXTINF:-1 tvg-id="CL - REC TV" tvg-name="CL: Rec TV SD" tvg-logo="http://img.tvcl.xyz/chile/rectv.png" group-title="Chile",CL: Rec TV SD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35320
+#EXTINF:-1 tvg-id="CL - TV Chile" tvg-name="CL: TV Chile FHD" tvg-logo="http://img.tvcl.xyz/chile/tvchile.png" group-title="Chile",CL: TV Chile FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35321
+#EXTINF:-1 tvg-id="UCV3.cl" tvg-name="CL: UCV 3 HD" tvg-logo="http://img.tvcl.xyz/chile/ucv3.png" group-title="Chile",CL: UCV 3 HD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/35322
+#EXTINF:-1 tvg-id="CL - TVEducaChile" tvg-name="CL: TV Educa Chile FHD" tvg-logo="http://img.tvcl.xyz/chile/tveduca.png" group-title="Chile",CL: TV Educa Chile FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/47913
+#EXTINF:-1 tvg-id="CL - TV +" tvg-name="CL: TV+ FHD" tvg-logo="http://img.tvcl.xyz/chile/tvmas.png" group-title="Chile",CL: TV+ FHD
+http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/123889
+
 #EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Deportes",TNT Sports FHD (CL)
 http://dnsplay.xyz:80/mhkcwzcx/pu6yEt857U/34676
 #EXTINF:-1 tvg-id="CL - TNT Sports" tvg-name="TNT Sports HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/tntsport.png" group-title="Deportes",TNT Sports HD (CL)
